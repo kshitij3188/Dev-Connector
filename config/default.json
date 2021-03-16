@@ -1,3 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://levi:chess3188@devconnector.99fyy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://levi:chess3188@devconnector.99fyy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "88960e15a488d79ec9aa",
+    "githubSecret" : "450cd26e08fffefec3e907efbe2bddf00b0442f2"
 }
